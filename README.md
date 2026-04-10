@@ -15,7 +15,7 @@ This project demonstrates how AI can assist in academic research, blogging, and 
 ## 🚀 How to Use
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/blog-writing-agent.git
+   git clone https://github.com/krishnenduadhikary/blog-writing-agent.git
    cd blog-writing-agent
    ```
 
