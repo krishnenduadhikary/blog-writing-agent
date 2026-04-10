@@ -38,6 +38,9 @@ This project demonstrates how AI can assist in academic research, blogging, and 
    ```
 
 ## 🧠 Architecture
+
+<img width="1024" height="1494" alt="Agent Workflow Diagr" src="https://github.com/user-attachments/assets/c6e96db2-e9df-42e3-a701-41ff02d9c698" />
+
 The system uses **LangGraph** to coordinate a multi-node workflow:
 - **Router:** Decides if web research is needed.
 - **Research:** Fetches evidence via Tavily.
